@@ -24,9 +24,6 @@
     "url": "https://github.com/pjpimentel/dots/issues"
   },
   "homepage": "https://dots.pimentel.co",
-  "files": [
-    "dist"
-  ],
   "dependencies": {
     "axios": "^0.27.2"
   },
